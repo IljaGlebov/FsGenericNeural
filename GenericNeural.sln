@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GenericNeural", "GenericNeural\GenericNeural.fsproj", "{3ABA3847-46DA-4936-8F4D-D42D7FA9C61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABA3847-46DA-4936-8F4D-D42D7FA9C61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABA3847-46DA-4936-8F4D-D42D7FA9C61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABA3847-46DA-4936-8F4D-D42D7FA9C61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABA3847-46DA-4936-8F4D-D42D7FA9C61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
